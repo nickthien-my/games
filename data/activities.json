@@ -1,24 +1,80 @@
 [
   {
-    "activityDate": "1/23/2022",
-    "trophyName": "Truly awesome!",
-    "caption": "Reach the final level of Awesomeness",
-    "screenshotName": "RaymanLegends_20220123160457"
+    "activityDate": "January 23, 2022",
+    "gameLogo": "Dirt5",
+    "gameName": "Dirt 5",
+    "trophyName": "Blank Slate",
+    "caption": "Build and test your first Playground",
+    "screenshotName": "DIRT5_20220123235954"
   },
   {
-    "activityDate": "1/23/2022",
-    "trophyName": "Legendary",
-    "caption": "Win all trophies in the game!",
-    "screenshotName": "RaymanLegends_20220123160500"
+    "activityDate": "January 23, 2022",
+    "gameLogo": "Dirt5",
+    "gameName": "Dirt 5",
+    "trophyName": "Graduation Ceremony",
+    "caption": "Complete Chapter 1",
+    "screenshotName": "DIRT5_20220123191354"
   },
   {
-    "activityDate": "1/23/2022",
+    "activityDate": "January 23, 2022",
+    "gameLogo": "Dirt5",
+    "gameName": "Dirt 5",
+    "trophyName": "Jack of All Trades",
+    "caption": "Complete one of every type of Career Event",
+    "screenshotName": "DIRT5_20220123184910"
+  },
+  {
+    "activityDate": "January 23, 2022",
+    "gameLogo": "Dirt5",
+    "gameName": "Dirt 5",
+    "trophyName": "Practice Makes Perfect",
+    "caption": "Complete 10 clean laps",
+    "screenshotName": "DIRT5_20220123184638"
+  },
+  {
+    "activityDate": "January 23, 2022",
+    "gameLogo": "Dirt5",
+    "gameName": "Dirt 5",
+    "trophyName": "Gonna Need New Tyres",
+    "caption": "Complete a 100m drift",
+    "screenshotName": "DIRT5_20220123165858"
+  },
+  {
+    "activityDate": "January 23, 2022",
+    "gameLogo": "Dirt5",
+    "gameName": "Dirt 5",
+    "trophyName": "\\+10 HRSPRS",
+    "caption": "Save your first customised livery",
+    "screenshotName": "DIRT5_20220123161738"
+  },
+  {
+    "activityDate": "January 23, 2022",
+    "gameLogo": "Dirt5",
+    "gameName": "Dirt 5",
     "trophyName": "Fast Cars and Fancy Cards",
     "caption": "Customise and save your player card",
     "screenshotName": "DIRT5_20220123161645"
   },
   {
-    "activityDate": "1/22/2022",
+    "activityDate": "January 23, 2022",
+    "gameLogo": "RaymanLegends",
+    "gameName": "Rayman Legends",
+    "trophyName": "Legendary",
+    "caption": "Win all trophies in the game!",
+    "screenshotName": "RaymanLegends_20220123160500"
+  },
+  {
+    "activityDate": "January 23, 2022",
+    "gameLogo": "RaymanLegends",
+    "gameName": "Rayman Legends",
+    "trophyName": "Truly awesome!",
+    "caption": "Reach the final level of Awesomeness",
+    "screenshotName": "RaymanLegends_20220123160457"
+  },
+  {
+    "activityDate": "January 22, 2022",
+    "gameLogo": "Dirt5",
+    "gameName": "Dirt 5",
     "trophyName": "Long Jump",
     "caption": "Jump 50m distance in a single jump",
     "screenshotName": "DIRT5_20220122190715"
